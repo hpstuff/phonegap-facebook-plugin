@@ -16,9 +16,6 @@
     
     <license>Apache 2.0</license>
     
-    <preference name="APP_ID" />
-    <preference name="APP_NAME" />
-    
     <params name="APP_ID" value="1111111111111111111" />
     <params name="APP_NAME" value="Dummy" />
     
